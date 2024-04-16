@@ -27,6 +27,11 @@ Throughout the coding process, certain themes and patterns emerged. Initially, p
 In hindsight, I learned that coding demands meticulous planning, logical structuring, and breaking tasks down into manageable chunks. It's a lesson I'll carry forward. If you think you've planned enough, plan some more. And if it feels like overkill, well, plan a bit more anyway. Besides that, working with Can on the backend and having to find solutions to get front end and back end to work has been a pleasant journey.
 
 
+## DS Track
+
+So I started as a DS techie for the team LOCAL to provide the backend support for the Data of the concerts happening in the local scene. The first and foremost task was to find relevant datasets that were compatible with our problem statement and this took us to a deep dive on Kaggle (recommended by our mentor) to look for a solution. After shortlisting 3 to 4 datasets, the team decided to go with the ‘music schedule’ which was close to fulfilling the needs as it had some ideal characteristics for our project. 
+From here on, the main DS work began from cleaning the dataset to modifying it as per our use. Since the app required a filtering-based search as an MVP, preparing the dataset for searching so as to the search does not break and performing data analytics for creating filters so as to show the relevant results for the search items in the user interface.
+
 
 
 
